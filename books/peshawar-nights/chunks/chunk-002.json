@@ -1,10 +1,10 @@
 {
   "schemaVersion": "2.0.0",
   "bookId": "peshawar-nights",
-  "id": "peshawar-nights-spreface-source-and-preface-002",
+  "id": "pn-preface-dialogue-setting-02",
   "examType": "islamic-studies",
-  "title": "Source, Preface, and Historical Setting — Part 2",
-  "thematicTopicId": "topic_source-and-preface",
+  "title": "The Peshawar Dialogue: Setting, Conduct, and Shared Sources",
+  "thematicTopicId": "topic_dialogue-setting",
   "difficultyLevelId": "diff_medium",
   "sourceSectionId": "section_session_preface",
   "sourceSectionTitle": "Front matter / preface",
@@ -102,5 +102,5 @@
   ],
   "glossary": [],
   "questions": [],
-  "status": "chunked_thematically_translations_pending"
+  "status": "theme_reviewed_translations_pending"
 }
