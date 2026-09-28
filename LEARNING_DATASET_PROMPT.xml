@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookLearningFrameworkPrompt version="2.0.0">
+<purpose>Build the complete learning dataset for any authorized book. Process the entire source. One chunk is one JSON file.</purpose>
+<sourceRules><rule>Preserve English exactly in sentences[].en. Never rewrite, simplify, modernize, correct, normalize, or paraphrase.</rule><rule>Every source sentence appears exactly once.</rule></sourceRules>
+<chunking><rule>Each chunk contains 10-20 complete source sentences.</rule><rule>Split at natural sentence and discussion boundaries.</rule><rule>Each chunk has ONE coherent, specific theme derived from its actual sentences.</rule><rule>Do not mix unrelated subjects just to fill a chunk.</rule><rule>Use precise thematicTopicId values, e.g. topic_fadak for a Fadak passage.</rule></chunking>
+<requiredSchema>
+<topLevelFields>bookId, id, examType, title, thematicTopicId, difficultyLevelId, sourceSectionId, sourceSectionTitle, sentences, glossary, questions</topLevelFields>
+<sentenceObject><fields>en, ur, fa, ar</fields><rule>All four are mandatory and non-empty.</rule><rule>en is exact source; ur and fa are faithful translations; ar is faithful Modern Standard Arabic with full tashkeel.</rule><rule>Preserve Qur'anic Arabic inside ﴿ ﴾ and hadith quotations inside « » when applicable.</rule></sentenceObject>
+<glossaryObject><fields>en, ur, fa, ar, categoryId</fields><rule>8-30 useful terms actually occurring in the chunk.</rule><categories>gloss_noun, gloss_verb, gloss_proper_noun, gloss_quranic_term, gloss_religious_term, gloss_adjective, gloss_adverb, gloss_phrase</categories></glossaryObject>
+<questionObject><requiredFields>id, type, typeId, question, answer, explanationEn, explanationUr, explanationFa, explanationAr</requiredFields><rule>3-8 questions based only on the chunk.</rule><types>q_short, q_mcq, q_true_false, q_fill_blank, q_long</types><mcq><required>choices, choiceIds, answerId</required><rule>answer exactly matches the correct choice.</rule></mcq></questionObject>
+<metadataRules><rule>bookId resolves to books/{bookId}/manifest.json.</rule><rule>thematicTopicId resolves to the book's thematicTopics.</rule><rule>sourceSectionId resolves to the book's sections in manifest.json.</rule><rule>sourceSectionTitle preserves the original source heading.</rule><rule>difficultyLevelId is diff_easy, diff_medium, or diff_hard.</rule><rule>examType is one of religious-studies, gcse, islamic-studies, reading-comprehension, literature, history, philosophy.</rule></metadataRules>
+<idRules><rule>Stable unique chunk IDs based on book, section, theme, sequence.</rule><example>pn-s8-fadak-02</example><rule>Question IDs use -q1, -q2; MCQ choices use -c1, -c2.</rule></idRules>
+<qualityRules><rule>Never leave ur, fa, or ar null or empty.</rule><rule>Do not invent claims, glossary terms, questions, or themes.</rule><rule>Keep names, quotations, dates, religious terminology, and historical details accurate.</rule></qualityRules>
+<output><rule>Return exactly one valid JSON object per chunk file. No markdown wrapper.</rule></output>
+<validation><check>10-20 sentences.</check><check>One specific coherent theme.</check><check>Non-empty en, ur, fa, ar for every sentence.</check><check>8-30 glossary entries.</check><check>3-8 questions.</check><check>Consistent MCQ arrays and answers.</check><check>Unique stable IDs.</check><check>Exact full-source coverage.</check><check>Universal Chunk Schema v2.0.0.</check></validation>
+<exampleShape><json>{
+  "bookId":"peshawar-nights",
+  "id":"pn-s8-fadak-02",
+  "examType":"religious-studies",
+  "title":"The Confiscation of Fadak",
+  "thematicTopicId":"topic_fadak",
+  "difficultyLevelId":"diff_medium",
+  "sourceSectionId":"section_8",
+  "sourceSectionTitle":"ARGUMENT FROM HADITH 'LA NURIS'",
+  "sentences":[{"en":"Exact source sentence.","ur":"وفادار اردو ترجمہ۔","fa":"ترجمهٔ دقیق فارسی.","ar":"تَرْجَمَةٌ عَرَبِيَّةٌ دَقِيقَةٌ بِالتَّشْكِيلِ."}],
+  "glossary":[{"en":"term","ur":"اردو","fa":"فارسی","ar":"الْعَرَبِيَّةُ","categoryId":"gloss_noun"}],
+  "questions":[{"id":"pn-s8-fadak-02-q1","type":"short","typeId":"q_short","question":"Question based on the chunk?","answer":"Answer based on the chunk.","explanationEn":"Text-grounded explanation.","explanationUr":"متن پر مبنی اردو وضاحت۔","explanationFa":"توضیح فارسی مبتنی بر متن.","explanationAr":"شَرْحٌ مُسْتَنِدٌ إِلَى النَّصِّ بِالتَّشْكِيلِ."}]
+}</json></exampleShape>
+</requiredSchema>
+</bookLearningFrameworkPrompt>
