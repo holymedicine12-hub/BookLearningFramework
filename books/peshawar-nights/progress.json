@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "bookId": "peshawar-nights",
   "updated": "2026-09-28",
-  "status": "three_chunks_mapped",
+  "status": "three_chunks_split_into_individual_files",
   "progressPercent": 3,
   "completed": [
     "Repository book folder established",
@@ -11,15 +11,16 @@
     "Al-Islam source successfully opened and verified as a 445-page PDF with 13,208 extracted lines",
     "Chunk target established at approximately 110-120 coherent chunks",
     "Mapped chunk 002: combining the daily prayers (session 1, pages 12-15)",
-    "Created books/peshawar-nights/gcse.json with chunks 001-003 learning metadata and source locators",
-    "Mapped chunk 003: family migration and the account of the discovery of Imam Ali's grave (session 1, pages 15-18)"
+    "Mapped chunk 003: family migration and the account of the discovery of Imam Ali's grave (session 1, pages 15-18)",
+    "Moved chunks 001-003 into separate JSON files under books/peshawar-nights/chunks/",
+    "Added Arabic glossary translation fields; sentence-level source translations await authorized full text"
   ],
   "inProgress": [
-    "Continue mapping subsequent coherent chunks in sequence",
-    "Build learning layers file-by-file"
+    "Continue creating one JSON file per chunk",
+    "Add Arabic translations for every source sentence and vocabulary item once source text is available"
   ],
   "blocked": [
-    "Canonical verbatim source_en cannot be populated from a web reference alone; the authorized full-text source must be supplied directly for repository reproduction"
+    "Verbatim source sentences and their Arabic translations require the authorized full-text source file; only the web reference is currently available."
   ],
   "nextSteps": [
     "Create remaining chunk records sequentially",
