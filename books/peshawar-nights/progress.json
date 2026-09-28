@@ -3,12 +3,18 @@
   "bookId": "peshawar-nights",
   "updated": "2026-09-28",
   "status": "source_chunking_complete_translations_pending",
-  "chunkCount": 125,
+  "chunkCount": 158,
   "sourceWords": 201000,
   "sourceCharacters": 1165628,
+  "chunkWordStats": {
+    "min": 719,
+    "max": 1300,
+    "average": 1272
+  },
   "completed": [
     "Full GitHub source ingested",
-    "Entire source divided into exact contiguous source_text_en ranges at sentence boundaries",
+    "Entire source divided into contiguous source_text_en ranges",
+    "Chunk boundaries selected at sentence boundaries where possible",
     "One JSON file per chunk",
     "Prompt updated with required output schema and example"
   ],
