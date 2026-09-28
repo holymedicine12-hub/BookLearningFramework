@@ -1,9 +1,9 @@
 {
   "schemaVersion": "2.0.0",
   "bookId": "peshawar-nights",
-  "id": "peshawar-nights-spreface-source-and-preface-001",
+  "id": "pn-preface-source-01",
   "examType": "islamic-studies",
-  "title": "Source, Preface, and Historical Setting — Part 1",
+  "title": "The Book, Its Sources, and the Translators' Notice",
   "thematicTopicId": "topic_source-and-preface",
   "difficultyLevelId": "diff_medium",
   "sourceSectionId": "section_session_preface",
@@ -11,96 +11,123 @@
   "sentences": [
     {
       "en": "Peshawar Nights\nAuthor(s):\nSayyid Muhammad al-Musawi al-Shirazi [1]\nPublisher(s):\nAnsariyan Publications - Qum [2]\nTranscript of dialogues between Sunni scholars and Shi'i author, about major topics relating to Shi'ism\nincluding the death of the Prophet (s), successorship, companions, infallibility, Muta' (temporary\nmarriage), and the family of the Prophet.",
-      "ur": null,
-      "fa": null,
-      "ar": null
+      "ur": "شب ہائے پشاور\nمصنف:\nسید محمد الموسوی الشیرازی [1]\nناشر:\nانصاریان پبلی کیشنز، قم [2]\nیہ سنی علماء اور شیعی مصنف کے درمیان ہونے والے مکالموں کا متن ہے، جن میں شیعیت سے متعلق اہم موضوعات، بشمول رسول اللہ ﷺ کی وفات، جانشینی، اصحاب، عصمت، متعہ (عارضی نکاح) اور خاندانِ رسول شامل ہیں۔",
+      "fa": "شب‌های پیشاور\nنویسنده:\nسید محمد الموسوی شیرازی [1]\nناشر:\nانتشارات انصاریان، قم [2]\nاین کتاب متن گفت‌وگوهای میان دانشمندان اهل سنت و نویسنده شیعه است که درباره موضوعات مهم مربوط به تشیع، از جمله رحلت پیامبر (ص)، جانشینی، اصحاب، عصمت، متعه (ازدواج موقت) و خاندان پیامبر بحث می‌کند.",
+      "ar": "لَيَالِي بَشَاوَر\nالْمُؤَلِّفُ:\nالسَّيِّدُ مُحَمَّدٌ الْمُوسَوِيُّ الشِّيرَازِيُّ [1]\nالنَّاشِرُ:\nمَنْشُورَاتُ أَنْصَارِيَانَ، قُمٌّ [2]\nوَهُوَ نَصُّ حِوَارَاتٍ بَيْنَ عُلَمَاءِ مِنْ أَهْلِ السُّنَّةِ وَمُؤَلِّفٍ شِيعِيٍّ، حَوْلَ مَوْضُوعَاتٍ مُهِمَّةٍ مُتَعَلِّقَةٍ بِالتَّشَيُّعِ، مِنْهَا وَفَاةُ النَّبِيِّ (ص)، وَالْخِلَافَةُ، وَالصَّحَابَةُ، وَالْعِصْمَةُ، وَالْمُتْعَةُ (الزَّوَاجُ الْمُؤَقَّتُ)، وَأَهْلُ بَيْتِ النَّبِيِّ."
     },
     {
       "en": " Includes a search facility.",
-      "ur": null,
-      "fa": null,
-      "ar": null
+      "ur": "اس میں تلاش کی سہولت بھی شامل ہے۔",
+      "fa": "این اثر دارای قابلیت جست‌وجو نیز هست.",
+      "ar": "وَيَشْتَمِلُ عَلَى خَاصِّيَّةِ الْبَحْثِ."
     },
     {
       "en": "\nGet PDF [3] Get EPUB [4] Get MOBI [5]\nTranslator(s):\nHamid Quinlan [6]\nCharles Ali Campbell [7]\nTopic Tags:\nSunni-Shi'a [8]\nImamah [9]\nWilayah [10]\nImportant notice:\nThe Ahlul Bayt DILP team wishes to inform the reader of some important points regarding this digitized\ntext, which represents the English translation of a work originally written in Farsi.",
-      "ur": null,
-      "fa": null,
-      "ar": null
+      "ur": "پی ڈی ایف [3]، ای پب [4] اور موبی [5] حاصل کریں۔\nمترجمین:\nحامد کوئنلان [6]\nچارلس علی کیمبل [7]\nموضوعاتی ٹیگز:\nسنی-شیعہ [8]\nامامت [9]\nولایت [10]\nاہم اطلاع:\nاہل البیت DILP کی ٹیم قاری کو اس ڈیجیٹل متن کے بارے میں چند اہم نکات سے آگاہ کرنا چاہتی ہے، جو اصل میں فارسی میں لکھی گئی کتاب کا انگریزی ترجمہ ہے۔",
+      "fa": "دریافت PDF [3]، EPUB [4] و MOBI [5]\nمترجمان:\nحامد کوئینلان [6]\nچارلز علی کمپبل [7]\nبرچسب‌های موضوعی:\nسنی-شیعه [8]\nامامت [9]\nولایت [10]\nاطلاع مهم:\nتیم DILP اهل‌بیت می‌خواهد خواننده را از چند نکته مهم درباره این متن دیجیتالی آگاه کند؛ این متن ترجمه انگلیسی اثری است که در اصل به زبان فارسی نوشته شده است.",
+      "ar": "احْصُلْ عَلَى PDF [3] وَEPUB [4] وَMOBI [5]\nالْمُتَرْجِمَانِ:\nحَامِدْ كُوَيْنْلَان [6]\nتْشَارْلِزْ عَلِيٌّ كَمْبَلْ [7]\nالْعَلَامَاتُ الْمَوْضُوعِيَّةُ:\nسُنِّيٌّ-شِيعِيٌّ [8]\nالْإِمَامَةُ [9]\nالْوِلَايَةُ [10]\nإِشْعَارٌ مُهِمٌّ:\nيُرِيدُ فَرِيقُ DILP أَهْلِ الْبَيْتِ إِحَاطَةَ الْقَارِئِ بِبَعْضِ النِّقَاطِ الْمُهِمَّةِ بِشَأْنِ هَذَا النَّصِّ الرَّقْمِيِّ، الَّذِي يُمَثِّلُ تَرْجَمَةً إِنْجِلِيزِيَّةً لِعَمَلٍ كُتِبَ أَصْلًا بِاللُّغَةِ الْفَارِسِيَّةِ."
     },
     {
       "en": " Whereas no one can\ndoubt the best intentions of the translator and the publishers in making this title accessible to an English\nspeaking audience, the editing and digitization process of this book (carried out by the DILP Team) has\nrevealed issues in the quality of translation.",
-      "ur": null,
-      "fa": null,
-      "ar": null
+      "ur": "اگرچہ اس کتاب کو انگریزی داں قارئین تک پہنچانے میں مترجم اور ناشرین کی نیک نیتی پر کوئی شک نہیں کیا جا سکتا، تاہم اس کتاب کی تدوین اور ڈیجیٹل تیاری کے عمل، جو DILP ٹیم نے انجام دیا، نے ترجمے کے معیار میں بعض مسائل ظاہر کیے ہیں۔",
+      "fa": "هرچند در نیک‌نیتی مترجم و ناشران برای در دسترس قرار دادن این اثر برای مخاطبان انگلیسی‌زبان تردیدی نیست، فرایند ویرایش و دیجیتالی‌سازی کتاب که توسط تیم DILP انجام شده، مشکلاتی را در کیفیت ترجمه آشکار کرده است.",
+      "ar": "وَمَعَ أَنَّهُ لَا يُمْكِنُ لِأَحَدٍ أَنْ يَشُكَّ فِي حُسْنِ نِيَّةِ الْمُتَرْجِمِ وَالنَّاشِرِينَ فِي إِتَاحَةِ هَذَا الْعُنْوَانِ لِلْجُمْهُورِ النَّاطِقِ بِالْإِنْجِلِيزِيَّةِ، فَإِنَّ عَمَلِيَّةَ تَحْرِيرِ الْكِتَابِ وَرَقْمَنَتِهِ، الَّتِي قَامَ بِهَا فَرِيقُ DILP، كَشَفَتْ عَنْ مَشَاكِلَ فِي جَوْدَةِ التَّرْجَمَةِ."
     },
     {
       "en": " Based upon this fact, the DILP team has taken the liberty to\nmake grammatical corrections to make the text more readable and less ambiguous; spelling mistakes\nand typographical errors have also been corrected and an attempt has been made to improve the highly\nnon-standard use of transliteration of Arabic names and terms.",
-      "ur": null,
-      "fa": null,
-      "ar": null
+      "ur": "اس حقیقت کی بنیاد پر DILP ٹیم نے متن کو زیادہ قابلِ مطالعہ اور کم مبہم بنانے کے لیے اس میں قواعدی اصلاحات کی ہیں؛ ہجے اور طباعتی غلطیوں کو بھی درست کیا گیا ہے، اور عربی ناموں اور اصطلاحات کے غیر معیاری نقلِ صوت کو بہتر بنانے کی کوشش کی گئی ہے۔",
+      "fa": "بر پایه این واقعیت، تیم DILP برای خواناتر و کم‌ابهام‌تر کردن متن، اصلاحات دستوری انجام داده است؛ اشتباهات املایی و تایپی نیز اصلاح شده‌اند و کوششی برای بهبود شیوه بسیار غیرمعمول آوانویسی نام‌ها و اصطلاحات عربی صورت گرفته است.",
+      "ar": "وَبِنَاءً عَلَى هَذِهِ الْحَقِيقَةِ، أَجْرَى فَرِيقُ DILP تَصْحِيحَاتٍ نَحْوِيَّةً لِجَعْلِ النَّصِّ أَسْهَلَ قِرَاءَةً وَأَقَلَّ غُمُوضًا؛ كَمَا صُحِّحَتِ الْأَخْطَاءُ الْإِمْلَائِيَّةُ وَالطِّبَاعِيَّةُ، وَبُذِلَتْ مُحَاوَلَةٌ لِتَحْسِينِ الاِسْتِعْمَالِ غَيْرِ الْمَعْيَارِيِّ جِدًّا لِنَقْلِ أَسْمَاءِ وَمُصْطَلَحَاتِ اللُّغَةِ الْعَرَبِيَّةِ."
     },
     {
       "en": " The online text is not an exact\nreproduction of the original translation.",
-      "ur": null,
-      "fa": null,
-      "ar": null
+      "ur": "آن لائن متن اصل ترجمے کی عین نقل نہیں ہے۔",
+      "fa": "متن آنلاین، بازتولید دقیق ترجمه اصلی نیست.",
+      "ar": "النَّصُّ الْمَوْجُودُ عَلَى الْإِنْتَرْنِتِ لَيْسَ نُسْخَةً مُطَابِقَةً لِلتَّرْجَمَةِ الْأَصْلِيَّةِ."
     },
     {
       "en": " Users wishing to see the translation as it was published should\nrefer to printed copies available in bookshops.",
-      "ur": null,
-      "fa": null,
-      "ar": null
+      "ur": "جو قارئین ترجمے کو اسی صورت میں دیکھنا چاہتے ہیں جس میں یہ شائع ہوا تھا، انہیں کتاب فروشوں کے ہاں دستیاب مطبوعہ نسخوں سے رجوع کرنا چاہیے۔",
+      "fa": "خوانندگانی که می‌خواهند ترجمه را همان‌گونه که منتشر شده ببینند، باید به نسخه‌های چاپی موجود در کتاب‌فروشی‌ها مراجعه کنند.",
+      "ar": "يَنْبَغِي لِلْمُسْتَخْدِمِينَ الَّذِينَ يَرْغَبُونَ فِي رُؤْيَةِ التَّرْجَمَةِ كَمَا نُشِرَتْ أَنْ يَرْجِعُوا إِلَى النُّسَخِ الْمَطْبُوعَةِ الْمُتَوَفِّرَةِ فِي مَكْتَبَاتِ بَيْعِ الْكُتُبِ."
     },
     {
       "en": " Those who understand are advised to refer directly to the\noriginal text.",
-      "ur": null,
-      "fa": null,
-      "ar": null
+      "ur": "جو لوگ اصل زبان سمجھتے ہیں، انہیں براہِ راست اصل متن کی طرف رجوع کرنے کا مشورہ دیا جاتا ہے۔",
+      "fa": "به کسانی که زبان اصلی را می‌فهمند توصیه می‌شود مستقیماً به متن اصلی مراجعه کنند.",
+      "ar": "يُنْصَحُ الَّذِينَ يَفْهَمُونَ اللُّغَةَ الْأَصْلِيَّةَ بِالرُّجُوعِ مُبَاشَرَةً إِلَى النَّصِّ الْأَصْلِيِّ."
     },
     {
       "en": " The Ahlul Bayt DILP Team\nTranslators' Preface\nRecently the non-Muslim world has forcibly learned that Islam is divided into two sects, Shi’as and\nSunni, but there is so little material in languages other than Arabic and Persian on the Shi’as side of the\nissue that real understanding is all but impossible.",
-      "ur": null,
-      "fa": null,
-      "ar": null
+      "ur": "اہل البیت DILP ٹیم\nمترجمین کا پیش لفظ\nحال ہی میں غیر مسلم دنیا نے شدت کے ساتھ یہ جانا ہے کہ اسلام دو فرقوں، شیعہ اور سنی، میں تقسیم ہے، لیکن شیعہ نقطۂ نظر کے بارے میں عربی اور فارسی کے علاوہ دوسری زبانوں میں مواد اتنا کم ہے کہ حقیقی سمجھ بوجھ تقریباً ناممکن ہو جاتی ہے۔",
+      "fa": "تیم DILP اهل‌بیت\nپیشگفتار مترجمان\nدر دوران اخیر جهان غیرمسلمان به‌طور جدی دریافته است که اسلام به دو فرقه شیعه و سنی تقسیم شده است؛ اما درباره دیدگاه شیعه در زبان‌هایی غیر از عربی و فارسی چنان مطالب اندکی وجود دارد که درک واقعی تقریباً ناممکن است.",
+      "ar": "فَرِيقُ DILP أَهْلِ الْبَيْتِ\nمُقَدِّمَةُ الْمُتَرْجِمِينَ\nفِي الْآوِنَةِ الْأَخِيرَةِ أَدْرَكَ الْعَالَمُ غَيْرُ الْمُسْلِمِ بِقُوَّةٍ أَنَّ الْإِسْلَامَ مُنْقَسِمٌ إِلَى فِرْقَتَيْنِ، الشِّيعَةِ وَالسُّنَّةِ، وَلَكِنَّ الْمَوَادَّ حَوْلَ الْجَانِبِ الشِّيعِيِّ مِنَ الْمَسْأَلَةِ قَلِيلَةٌ جِدًّا فِي اللُّغَاتِ غَيْرِ الْعَرَبِيَّةِ وَالْفَارِسِيَّةِ، حَتَّى إِنَّ الْفَهْمَ الْحَقِيقِيَّ يَكَادُ يَكُونُ مُسْتَحِيلًا."
     },
     {
       "en": " This is the consequence of the historical accident that\nWestern contact with Islam was almost entirely with Sunni communities, Saudi Arabia, Egypt, Ottoman\nTurkey, most of Muslim India, etc.\nThe present work corrects this imbalance in a most extraordinary way, for the case for Shi'ite Islam is\nargued and supported virtually entirely from orthodox Sunni sources.",
-      "ur": null,
-      "fa": null,
-      "ar": null
-    },
-    {
-      "en": " The political, juridical, and spiritual\nlegitimacy of the Shi'ite position has been argued, and documented in the English language, and from\nsources that the West has largely overlooked.",
-      "ur": null,
-      "fa": null,
-      "ar": null
-    },
-    {
-      "en": "\nIn fact, it is shown here that the most authoritative source for interpreting of the message of the Prophet\nMuhammad was his cousin and son-in-law, ‘Ali Ibn Abi Talib, and the eleven other designated\nsuccessors after him, who constitute the Imams of the Ithna Asheri (Twelve Imam) Shi’as.",
-      "ur": null,
-      "fa": null,
-      "ar": null
-    },
-    {
-      "en": " At various\ntimes in history this fact has been more, or, less recognized by the Muslim world.",
-      "ur": null,
-      "fa": null,
-      "ar": null
-    },
-    {
-      "en": "\nAs recently as 1959, for example, Sheikh Mahmud Shaltut, late Rector of Al-Azhar University in Cairo,\nand the Grand Mufti of the Sunni Sect, decreed that in addition to the four Sunni schools of Muslim\ncanon law, Hanafite, Hanbalite, Malakite, and Shafi'ite, the Ja'farite or Shi’as school of law was equally\nacceptable to Muslims.",
-      "ur": null,
-      "fa": null,
-      "ar": null
-    },
-    {
-      "en": "\nA brief account of how this came about at the instigation of Imam Mohamad Chirri, Director of the Islamic\nCenter of North American in Detroit, Michigan, may be found in Chirri's book \"The Shiites Under Attack,\"\npublished by the Center.",
-      "ur": null,
-      "fa": null,
-      "ar": null
+      "ur": "یہ اس تاریخی صورتِ حال کا نتیجہ ہے کہ مغرب کا اسلام سے رابطہ تقریباً مکمل طور پر سنی معاشروں، جیسے سعودی عرب، مصر، عثمانی ترکی اور مسلم ہندوستان کے بیشتر حصوں، وغیرہ کے ذریعے رہا۔\nیہ کتاب اس عدم توازن کو ایک غیر معمولی طریقے سے درست کرتی ہے، کیونکہ شیعی اسلام کے حق میں مقدمہ تقریباً مکمل طور پر مستند سنی مصادر سے پیش اور تقویت یافتہ کیا گیا ہے۔",
+      "fa": "این وضعیت نتیجه یک واقعیت تاریخی است که ارتباط غرب با اسلام تقریباً به‌طور کامل از طریق جوامع اهل سنت، مانند عربستان سعودی، مصر، ترکیه عثمانی و بیشتر هند مسلمان، صورت گرفته است.\nاین اثر این عدم توازن را به شیوه‌ای بسیار چشمگیر اصلاح می‌کند، زیرا استدلال درباره اسلام شیعی تقریباً به‌طور کامل بر پایه منابع معتبر اهل سنت ارائه و پشتیبانی شده است.",
+      "ar": "وَهَذَا نَاتِجٌ عَنْ حَادِثَةٍ تَارِيخِيَّةٍ كَانَ بِمُوجِبِهَا اتِّصَالُ الْغَرْبِ بِالْإِسْلَامِ قَدْ تَمَّ تَقْرِيبًا بِشَكْلٍ كَامِلٍ مَعَ الْمُجْتَمَعَاتِ السُّنِّيَّةِ، كَالسُّعُودِيَّةِ وَمِصْرَ وَتُرْكِيَا الْعُثْمَانِيَّةِ وَمُعْظَمِ الْهِنْدِ الْمُسْلِمَةِ وَغَيْرِهَا.\nوَيُصَحِّحُ هَذَا الْعَمَلُ هَذَا الِاخْتِلَالَ بِطَرِيقَةٍ اسْتِثْنَائِيَّةٍ، لِأَنَّ الْحُجَّةَ لِصَالِحِ الْإِسْلَامِ الشِّيعِيِّ تُقَدَّمُ وَتُدْعَمُ تَقْرِيبًا بِشَكْلٍ كَامِلٍ مِنْ مَصَادِرَ سُنِّيَّةٍ أَصْلِيَّةٍ."
     }
   ],
-  "glossary": [],
-  "questions": [],
-  "status": "chunked_thematically_translations_pending"
+  "glossary": [
+    {"en":"Peshawar Nights","ur":"شب ہائے پشاور","fa":"شب‌های پیشاور","ar":"لَيَالِي بَشَاوَر","categoryId":"gloss_proper_noun"},
+    {"en":"Ansariyan Publications","ur":"انصاریان پبلی کیشنز","fa":"انتشارات انصاریان","ar":"مَنْشُورَاتُ أَنْصَارِيَانَ","categoryId":"gloss_proper_noun"},
+    {"en":"Sunni scholars","ur":"سنی علماء","fa":"دانشمندان اهل سنت","ar":"عُلَمَاءُ أَهْلِ السُّنَّةِ","categoryId":"gloss_religious_term"},
+    {"en":"Shi'i author","ur":"شیعی مصنف","fa":"نویسنده شیعه","ar":"مُؤَلِّفٌ شِيعِيٌّ","categoryId":"gloss_religious_term"},
+    {"en":"Shi'ism","ur":"شیعیت","fa":"تشیع","ar":"التَّشَيُّعُ","categoryId":"gloss_religious_term"},
+    {"en":"successorship","ur":"جانشینی","fa":"جانشینی","ar":"الْخِلَافَةُ","categoryId":"gloss_religious_term"},
+    {"en":"infallibility","ur":"عصمت","fa":"عصمت","ar":"الْعِصْمَةُ","categoryId":"gloss_religious_term"},
+    {"en":"Muta'","ur":"متعہ","fa":"متعه","ar":"الْمُتْعَةُ","categoryId":"gloss_religious_term"},
+    {"en":"Imamah","ur":"امامت","fa":"امامت","ar":"الْإِمَامَةُ","categoryId":"gloss_religious_term"},
+    {"en":"Wilayah","ur":"ولایت","fa":"ولایت","ar":"الْوِلَايَةُ","categoryId":"gloss_religious_term"},
+    {"en":"digitized text","ur":"ڈیجیٹل متن","fa":"متن دیجیتالی","ar":"النَّصُّ الرَّقْمِيُّ","categoryId":"gloss_noun"},
+    {"en":"translation","ur":"ترجمہ","fa":"ترجمه","ar":"التَّرْجَمَةُ","categoryId":"gloss_noun"},
+    {"en":"grammatical corrections","ur":"قواعدی اصلاحات","fa":"اصلاحات دستوری","ar":"تَصْحِيحَاتٌ نَحْوِيَّةٌ","categoryId":"gloss_phrase"},
+    {"en":"typographical errors","ur":"طباعتی غلطیاں","fa":"اشتباهات تایپی","ar":"أَخْطَاءٌ طِبَاعِيَّةٌ","categoryId":"gloss_phrase"},
+    {"en":"original text","ur":"اصل متن","fa":"متن اصلی","ar":"النَّصُّ الْأَصْلِيُّ","categoryId":"gloss_phrase"},
+    {"en":"orthodox Sunni sources","ur":"مستند سنی مصادر","fa":"منابع معتبر اهل سنت","ar":"مَصَادِرُ سُنِّيَّةٌ أَصْلِيَّةٌ","categoryId":"gloss_phrase"}
+  ],
+  "questions": [
+    {
+      "id":"pn-preface-source-01-q1","type":"short","typeId":"q_short",
+      "question":"What kind of material does Peshawar Nights contain?","answer":"It contains transcripts of dialogues between Sunni scholars and a Shi'i author on major topics relating to Shi'ism.",
+      "explanationEn":"The opening description identifies the work as a transcript of dialogues covering several major topics relating to Shi'ism.",
+      "explanationUr":"ابتدائی تعارف کے مطابق یہ کتاب سنی علماء اور ایک شیعی مصنف کے درمیان مکالموں کا متن ہے جس میں شیعیت کے اہم موضوعات زیرِ بحث آتے ہیں۔",
+      "explanationFa":"معرفی ابتدایی اثر را متن گفت‌وگوهای دانشمندان اهل سنت و یک نویسنده شیعه درباره موضوعات مهم تشیع معرفی می‌کند.",
+      "explanationAr":"يُعَرِّفُ الْوَصْفُ الِافْتِتَاحِيُّ الْكِتَابَ بِأَنَّهُ نَصُّ حِوَارَاتٍ بَيْنَ عُلَمَاءِ مِنْ أَهْلِ السُّنَّةِ وَمُؤَلِّفٍ شِيعِيٍّ حَوْلَ مَوْضُوعَاتٍ مُهِمَّةٍ فِي التَّشَيُّعِ."
+    },
+    {
+      "id":"pn-preface-source-01-q2","type":"mcq","typeId":"q_mcq",
+      "question":"In which language was the original work written?","answer":"Farsi","choices":["Farsi","Arabic","English","Urdu"],"choiceIds":["c1","c2","c3","c4"],"answerId":"c1",
+      "explanationEn":"The notice says the digitized text represents an English translation of a work originally written in Farsi.",
+      "explanationUr":"اطلاع میں کہا گیا ہے کہ ڈیجیٹل متن اصل میں فارسی میں لکھی گئی کتاب کا انگریزی ترجمہ ہے۔",
+      "explanationFa":"اطلاعیه بیان می‌کند که متن دیجیتالی، ترجمه انگلیسی اثری است که در اصل به فارسی نوشته شده است.",
+      "explanationAr":"يَذْكُرُ الْإِشْعَارُ أَنَّ النَّصَّ الرَّقْمِيَّ تَرْجَمَةٌ إِنْجِلِيزِيَّةٌ لِعَمَلٍ كُتِبَ أَصْلًا بِالْفَارِسِيَّةِ."
+    },
+    {
+      "id":"pn-preface-source-01-q3","type":"true_false","typeId":"q_true_false",
+      "question":"Does the notice say that the online text is an exact reproduction of the original translation?","answer":"False",
+      "explanationEn":"The source explicitly states that the online text is not an exact reproduction of the original translation.",
+      "explanationUr":"ماخذ واضح طور پر کہتا ہے کہ آن لائن متن اصل ترجمے کی عین نقل نہیں ہے۔",
+      "explanationFa":"متن به‌صراحت می‌گوید که متن آنلاین بازتولید دقیق ترجمه اصلی نیست.",
+      "explanationAr":"يَنُصُّ الْمَصْدَرُ صَرَاحَةً عَلَى أَنَّ النَّصَّ الْمَوْجُودَ عَلَى الْإِنْتَرْنِتِ لَيْسَ نُسْخَةً مُطَابِقَةً لِلتَّرْجَمَةِ الْأَصْلِيَّةِ."
+    },
+    {
+      "id":"pn-preface-source-01-q4","type":"short","typeId":"q_short",
+      "question":"What kinds of corrections does the DILP team say it made?","answer":"It says it made grammatical corrections, corrected spelling and typographical mistakes, and attempted to improve the transliteration of Arabic names and terms.",
+      "explanationEn":"The notice lists grammatical, spelling, typographical, and transliteration-related changes.",
+      "explanationUr":"اطلاع میں قواعدی اصلاحات، ہجے اور طباعتی غلطیوں کی درستگی، اور عربی ناموں و اصطلاحات کی نقلِ صوت بہتر بنانے کی کوشش کا ذکر ہے۔",
+      "explanationFa":"در اطلاعیه از اصلاحات دستوری، اصلاح اشتباهات املایی و تایپی و تلاش برای بهبود آوانویسی نام‌ها و اصطلاحات عربی یاد شده است.",
+      "explanationAr":"يَذْكُرُ الْإِشْعَارُ تَصْحِيحَاتٍ نَحْوِيَّةً وَإِمْلَائِيَّةً وَطِبَاعِيَّةً، مَعَ مُحَاوَلَةٍ لِتَحْسِينِ نَقْلِ أَسْمَاءِ وَمُصْطَلَحَاتِ الْعَرَبِيَّةِ."
+    },
+    {
+      "id":"pn-preface-source-01-q5","type":"short","typeId":"q_short",
+      "question":"What does the translators' preface say is lacking in languages other than Arabic and Persian?","answer":"It says there is very little material about the Shi'as side of the issue.",
+      "explanationEn":"The preface explains that limited material in other languages makes real understanding difficult.",
+      "explanationUr":"پیش لفظ کے مطابق دوسری زبانوں میں شیعہ نقطۂ نظر کے بارے میں مواد بہت کم ہے، جس سے حقیقی سمجھ بوجھ مشکل ہو جاتی ہے۔",
+      "explanationFa":"پیشگفتار می‌گوید مطالب درباره دیدگاه شیعه در زبان‌های دیگر بسیار اندک است و همین امر درک واقعی را دشوار می‌کند.",
+      "explanationAr":"تَقُولُ الْمُقَدِّمَةُ إِنَّ الْمَوَادَّ حَوْلَ الْجَانِبِ الشِّيعِيِّ قَلِيلَةٌ جِدًّا فِي اللُّغَاتِ الْأُخْرَى، مِمَّا يَجْعَلُ الْفَهْمَ الْحَقِيقِيَّ صَعْبًا."
+    }
+  ]
 }
