@@ -1,6 +1,77 @@
 {
   "schemaVersion": "2.0",
   "bookId": "peshawar-nights",
-  "status": "in_progress",
-  "chunks": []
+  "status": "source_indexed_metadata_only",
+  "source": {
+    "type": "web",
+    "url": "https://al-islam.org/peshawar-nights-sayyid-muhammad-al-musawi-al-shirazi",
+    "accessed": "2026-09-28",
+    "title": "Peshawar Nights",
+    "publisherSite": "Al-Islam.org",
+    "note": "Al-Islam.org states that its online text has undergone grammatical, spelling, typographical, and transliteration edits and is not an exact reproduction of the published English translation."
+  },
+  "structure": {
+    "frontMatter": [
+      "translators-preface",
+      "the-book"
+    ],
+    "sessions": [
+      {
+        "numericId": 1,
+        "key": "session_1",
+        "title": "The First Session"
+      },
+      {
+        "numericId": 2,
+        "key": "session_2",
+        "title": "The Second Session"
+      },
+      {
+        "numericId": 3,
+        "key": "session_3",
+        "title": "The Third Session"
+      },
+      {
+        "numericId": 4,
+        "key": "session_4",
+        "title": "The Fourth Session"
+      },
+      {
+        "numericId": 5,
+        "key": "session_5",
+        "title": "The Fifth Session"
+      },
+      {
+        "numericId": 6,
+        "key": "session_6",
+        "title": "The Sixth Session"
+      },
+      {
+        "numericId": 7,
+        "key": "session_7",
+        "title": "The Seventh Session"
+      },
+      {
+        "numericId": 8,
+        "key": "session_8",
+        "title": "The Eighth Session"
+      },
+      {
+        "numericId": 9,
+        "key": "session_9",
+        "title": "The Ninth Session"
+      },
+      {
+        "numericId": 10,
+        "key": "session_10",
+        "title": "The Tenth Session"
+      }
+    ]
+  },
+  "chunks": [],
+  "preservation": {
+    "sourceEnglishPolicy": "Do not alter canonical source text when a licensed/user-supplied source is used.",
+    "currentWebSourcePolicy": "Do not copy the full copyrighted web text into repository JSON without the required rights.",
+    "nextStep": "Populate learning chunks from a source the project is authorized to reproduce; preserve source text verbatim within that authorized source."
+  }
 }
