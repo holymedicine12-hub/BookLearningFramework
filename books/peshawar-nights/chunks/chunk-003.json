@@ -1,0 +1,105 @@
+{
+  "chunkId": "peshawar-nights-003",
+  "sequence": 3,
+  "session": "session_1",
+  "title": "Migration of the Author's Ancestors and the Discovery of Imam Ali's Grave",
+  "sourceLocator": {
+    "webReference": "https://al-islam.org/printpdf/book/export/html/18725",
+    "pages": "15-18",
+    "lines": "414-479"
+  },
+  "source_en": null,
+  "summary": {
+    "en": "The discussion briefly turns to the author's family history and the migration of his ancestors from the Hijaz to Iran. It then addresses the account given in the dialogue about the secret burial of Imam Ali and the later discovery of his grave near Najaf. The speaker connects the secrecy surrounding the burial with the political conditions described in the narrative and introduces historical examples involving members of the Prophet's family. These are presented as the dialogue's account and should be distinguished from independently verified historical conclusions.",
+    "ur": "گفتگو میں مختصراً مصنف کے خاندان کی تاریخ اور حجاز سے ایران ہجرت کا ذکر آتا ہے۔ اس کے بعد امام علیؑ کی خفیہ تدفین اور نجف کے قریب آپؑ کی قبر کی بعد میں دریافت ہونے کے بیان پر گفتگو ہوتی ہے۔ متکلم اس راز داری کو اس دور کے سیاسی حالات سے جوڑتا ہے اور اہلِ بیتؑ سے متعلق تاریخی واقعات کی مثالیں پیش کرتا ہے۔ یہ خلاصہ کتاب میں پیش کردہ گفتگو کی وضاحت ہے، مستقل تاریخی تحقیق کا متبادل نہیں۔",
+    "ar": ""
+  },
+  "learningObjectives": [
+    "Identify the two historical topics introduced in this section.",
+    "Explain why the dialogue says Imam Ali's burial place was kept secret.",
+    "Describe how the narrative connects the secret burial with the political circumstances of the time.",
+    "Distinguish the book's claims from independently verified historical conclusions."
+  ],
+  "glossary": [
+    {
+      "term": "Hijaz",
+      "category": "proper noun",
+      "definition_en": "A historical region in western Arabia that includes Mecca and Medina.",
+      "translation_ar": "الحِجَاز"
+    },
+    {
+      "term": "Najaf",
+      "category": "proper noun",
+      "definition_en": "A city in present-day Iraq associated with the shrine of Imam Ali.",
+      "translation_ar": "النَّجَف"
+    },
+    {
+      "term": "mausoleum",
+      "category": "noun",
+      "definition_en": "A building or structure containing a tomb.",
+      "translation_ar": "ضَرِيح"
+    },
+    {
+      "term": "Umayyads",
+      "category": "proper noun",
+      "definition_en": "A dynasty that ruled the early Islamic caliphate.",
+      "translation_ar": "الأُمَوِيُّون"
+    }
+  ],
+  "questions": [
+    {
+      "type": "short_answer",
+      "difficulty": "easy",
+      "question": "Which two subjects are discussed after the conversation about combining prayers?"
+    },
+    {
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "question": "According to the dialogue, why was Imam Ali's burial place kept secret?",
+      "options": [
+        "To protect it from possible desecration",
+        "To mark a new capital",
+        "To hide a treasure",
+        "To avoid a pilgrimage route"
+      ],
+      "answer": "To protect it from possible desecration"
+    },
+    {
+      "type": "true_false",
+      "difficulty": "easy",
+      "question": "The section includes a brief account of the author's ancestors migrating from the Hijaz to Iran.",
+      "answer": true
+    },
+    {
+      "type": "long_answer",
+      "difficulty": "hard",
+      "question": "Explain how the dialogue links the secret burial of Imam Ali with the political circumstances described by the speaker."
+    }
+  ],
+  "notes": [
+    "Learning summary of the referenced passage; it does not reproduce the source text.",
+    "The canonical source_en field remains null until the authorized full text is supplied directly.",
+    "Historical assertions are framed as claims in the dialogue, not independently verified facts."
+  ],
+  "sentenceTranslations": {
+    "note": "These translate the authored English learning summary, not the original book sentences. Original sentence translations require the authorized source text.",
+    "en_ar": [
+      {
+        "en": "The discussion briefly turns to the author's family history and the migration of his ancestors from the Hijaz to Iran.",
+        "ar": ""
+      },
+      {
+        "en": "It then addresses the account given in the dialogue about the secret burial of Imam Ali and the later discovery of his grave near Najaf.",
+        "ar": ""
+      },
+      {
+        "en": "The speaker connects the secrecy surrounding the burial with the political conditions described in the narrative and introduces historical examples involving members of the Prophet's family.",
+        "ar": ""
+      },
+      {
+        "en": "These are presented as the dialogue's account and should be distinguished from independently verified historical conclusions.",
+        "ar": ""
+      }
+    ]
+  }
+}
