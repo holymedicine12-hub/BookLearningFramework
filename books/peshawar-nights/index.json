@@ -1,14 +1,16 @@
 {
   "schemaVersion": "2.0",
   "bookId": "peshawar-nights",
-  "status": "source_indexed_metadata_only",
+  "status": "source_referenced_structure_indexed",
   "source": {
-    "type": "web",
-    "url": "https://al-islam.org/peshawar-nights-sayyid-muhammad-al-musawi-al-shirazi",
+    "type": "web_reference",
+    "url": "https://al-islam.org/printpdf/book/export/html/18725",
     "accessed": "2026-09-28",
     "title": "Peshawar Nights",
     "publisherSite": "Al-Islam.org",
-    "note": "Al-Islam.org states that its online text has undergone grammatical, spelling, typographical, and transliteration edits and is not an exact reproduction of the published English translation."
+    "note": "Al-Islam.org states that its online text has undergone grammatical, spelling, typographical, and transliteration edits and is not an exact reproduction of the published English translation.",
+    "pages": 445,
+    "authorizationNote": "User states they have authorization to use this source."
   },
   "structure": {
     "frontMatter": [
@@ -19,59 +21,91 @@
       {
         "numericId": 1,
         "key": "session_1",
-        "title": "The First Session"
+        "title": "The First Session",
+        "startPage": 8,
+        "endPage": 18
       },
       {
         "numericId": 2,
         "key": "session_2",
-        "title": "The Second Session"
+        "title": "The Second Session",
+        "startPage": 19,
+        "endPage": 32
       },
       {
         "numericId": 3,
         "key": "session_3",
-        "title": "The Third Session"
+        "title": "The Third Session",
+        "startPage": 33,
+        "endPage": 68
       },
       {
         "numericId": 4,
         "key": "session_4",
-        "title": "The Fourth Session"
+        "title": "The Fourth Session",
+        "startPage": 69,
+        "endPage": 89
       },
       {
         "numericId": 5,
         "key": "session_5",
-        "title": "The Fifth Session"
+        "title": "The Fifth Session",
+        "startPage": 90,
+        "endPage": 122
       },
       {
         "numericId": 6,
         "key": "session_6",
-        "title": "The Sixth Session"
+        "title": "The Sixth Session",
+        "startPage": 123,
+        "endPage": 159
       },
       {
         "numericId": 7,
         "key": "session_7",
-        "title": "The Seventh Session"
+        "title": "The Seventh Session",
+        "startPage": 160,
+        "endPage": 196
       },
       {
         "numericId": 8,
         "key": "session_8",
-        "title": "The Eighth Session"
+        "title": "The Eighth Session",
+        "startPage": 197,
+        "endPage": 290
       },
       {
         "numericId": 9,
         "key": "session_9",
-        "title": "The Ninth Session"
+        "title": "The Ninth Session",
+        "startPage": 291,
+        "endPage": 367
       },
       {
         "numericId": 10,
         "key": "session_10",
-        "title": "The Tenth Session"
+        "title": "The Tenth Session",
+        "startPage": 368,
+        "endPage": 430
+      },
+      {
+        "numericId": 11,
+        "key": "session_last",
+        "title": "Last Session",
+        "startPage": 431,
+        "endPage": 445
       }
     ]
   },
-  "chunks": [],
+  "chunks": {
+    "plannedChunkSize": "~900-1400 source words",
+    "plannedTotal": "full-book; generated sequentially",
+    "files": "gcse.json, gcse-2.json, gcse-3.json, ..."
+  },
   "preservation": {
-    "sourceEnglishPolicy": "Do not alter canonical source text when a licensed/user-supplied source is used.",
-    "currentWebSourcePolicy": "Do not copy the full copyrighted web text into repository JSON without the required rights.",
-    "nextStep": "Populate learning chunks from a source the project is authorized to reproduce; preserve source text verbatim within that authorized source."
+    "sourceEnglishPolicy": "Canonical source_en must remain verbatim from the authorized source supplied for repository reproduction.",
+    "webReferencePolicy": "The Al-Islam PDF is the structural/reference source.",
+    "currentState": "Structure indexed; source text has not been copied into repository JSON from the web reference.",
+    "nextStep": "Use the user's authorized full-text source file to populate the canonical source_en chunks."
   }
 }
