@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "1.0",
+  "bookId": "peshawar-nights",
+  "purpose": "Full-book sequential chunk map",
+  "chunkingPolicy": {
+    "targetSourceWords": "900-1400",
+    "targetTotal": "110-120",
+    "rule": "Split at logical topic/discussion boundaries; do not split solely to hit a count.",
+    "sourceLayer": "source_en remains separate and verbatim when supplied from the authorized full-text source."
+  },
+  "sessions": [
+    {
+      "key": "session_1",
+      "pages": "8-18",
+      "estimatedChunks": 3
+    },
+    {
+      "key": "session_2",
+      "pages": "19-32",
+      "estimatedChunks": 4
+    },
+    {
+      "key": "session_3",
+      "pages": "33-68",
+      "estimatedChunks": 10
+    },
+    {
+      "key": "session_4",
+      "pages": "69-89",
+      "estimatedChunks": 6
+    },
+    {
+      "key": "session_5",
+      "pages": "90-122",
+      "estimatedChunks": 9
+    },
+    {
+      "key": "session_6",
+      "pages": "123-159",
+      "estimatedChunks": 10
+    },
+    {
+      "key": "session_7",
+      "pages": "160-196",
+      "estimatedChunks": 10
+    },
+    {
+      "key": "session_8",
+      "pages": "197-290",
+      "estimatedChunks": 25
+    },
+    {
+      "key": "session_9",
+      "pages": "291-367",
+      "estimatedChunks": 21
+    },
+    {
+      "key": "session_10",
+      "pages": "368-430",
+      "estimatedChunks": 19
+    },
+    {
+      "key": "session_last",
+      "pages": "431-445",
+      "estimatedChunks": 4
+    }
+  ],
+  "totalEstimatedChunks": 121,
+  "note": "This is an initial planning map; final boundaries will be adjusted after logical topic segmentation."
+}
