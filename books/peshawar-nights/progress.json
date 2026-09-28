@@ -2,18 +2,19 @@
   "schemaVersion": "1.0",
   "bookId": "peshawar-nights",
   "updated": "2026-09-28",
-  "status": "first_chunk_mapped",
-  "progressPercent": 25,
+  "status": "two_chunks_mapped",
+  "progressPercent": 2,
   "completed": [
     "Repository book folder established",
     "Manifest established",
     "445-page source structure indexed into 11 sessions",
     "Al-Islam source successfully opened and verified as a 445-page PDF with 13,208 extracted lines",
     "Chunk target established at approximately 110-120 coherent chunks",
-    "Created books/peshawar-nights/gcse.json with chunk 001 learning metadata and source locator"
+    "Created books/peshawar-nights/gcse.json with chunk 001 and chunk 002 learning metadata and source locators",
+    "Mapped chunk 002: combining the daily prayers (session 1, pages 12-15)"
   ],
   "inProgress": [
-    "Mapping subsequent coherent chunks",
+    "Mapping subsequent coherent chunks in sequence",
     "Building learning layers file-by-file"
   ],
   "blocked": [
@@ -28,5 +29,6 @@
     "url": "https://al-islam.org/printpdf/book/export/html/18725",
     "pages": 445,
     "extractedLines": 13208
-  }
+  },
+  "progressNote": "Overall content progress is approximately 2% (2 of an estimated 110-120 chunks); setup progress is tracked separately and is not counted as book content."
 }
