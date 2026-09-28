@@ -2,20 +2,21 @@
   "schemaVersion": "1.0",
   "bookId": "peshawar-nights",
   "updated": "2026-09-28",
-  "status": "two_chunks_mapped",
-  "progressPercent": 2,
+  "status": "three_chunks_mapped",
+  "progressPercent": 3,
   "completed": [
     "Repository book folder established",
     "Manifest established",
     "445-page source structure indexed into 11 sessions",
     "Al-Islam source successfully opened and verified as a 445-page PDF with 13,208 extracted lines",
     "Chunk target established at approximately 110-120 coherent chunks",
-    "Created books/peshawar-nights/gcse.json with chunk 001 and chunk 002 learning metadata and source locators",
-    "Mapped chunk 002: combining the daily prayers (session 1, pages 12-15)"
+    "Mapped chunk 002: combining the daily prayers (session 1, pages 12-15)",
+    "Created books/peshawar-nights/gcse.json with chunks 001-003 learning metadata and source locators",
+    "Mapped chunk 003: family migration and the account of the discovery of Imam Ali's grave (session 1, pages 15-18)"
   ],
   "inProgress": [
-    "Mapping subsequent coherent chunks in sequence",
-    "Building learning layers file-by-file"
+    "Continue mapping subsequent coherent chunks in sequence",
+    "Build learning layers file-by-file"
   ],
   "blocked": [
     "Canonical verbatim source_en cannot be populated from a web reference alone; the authorized full-text source must be supplied directly for repository reproduction"
@@ -30,5 +31,5 @@
     "pages": 445,
     "extractedLines": 13208
   },
-  "progressNote": "Overall content progress is approximately 2% (2 of an estimated 110-120 chunks); setup progress is tracked separately and is not counted as book content."
+  "progressNote": "Overall content progress is approximately 3% (3 of an estimated 110-120 chunks); setup progress is tracked separately and is not counted as book content."
 }
