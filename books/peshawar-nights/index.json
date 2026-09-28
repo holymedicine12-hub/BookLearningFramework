@@ -10,7 +10,8 @@
     "publisherSite": "Al-Islam.org",
     "note": "Al-Islam.org states that its online text has undergone grammatical, spelling, typographical, and transliteration edits and is not an exact reproduction of the published English translation.",
     "pages": 445,
-    "authorizationNote": "User states they have authorization to use this source."
+    "authorizationNote": "User states they have authorization to use this source.",
+    "policy": "Use the Al-Islam online edition as the English reference/source for chunking and learning metadata. Preserve its wording as the designated source reference; do not silently substitute another edition."
   },
   "structure": {
     "frontMatter": [
@@ -100,12 +101,14 @@
   "chunks": {
     "plannedChunkSize": "~900-1400 source words",
     "plannedTotal": "full-book; generated sequentially",
-    "files": "gcse.json, gcse-2.json, gcse-3.json, ..."
+    "filePattern": "chunks/chunk-001.json, chunks/chunk-002.json, chunks/chunk-003.json, ...",
+    "rule": "one chunk per JSON file"
   },
   "preservation": {
-    "sourceEnglishPolicy": "Canonical source_en must remain verbatim from the authorized source supplied for repository reproduction.",
-    "webReferencePolicy": "The Al-Islam PDF is the structural/reference source.",
-    "currentState": "Structure indexed; source text has not been copied into repository JSON from the web reference.",
-    "nextStep": "Use the user's authorized full-text source file to populate the canonical source_en chunks."
-  }
+    "sourceEnglishPolicy": "Al-Islam online English is the designated source reference for this project.",
+    "webReferencePolicy": "The Al-Islam PDF is the primary source/reference selected by the user.",
+    "currentState": "Source structure indexed; individual chunk files created for chunks 001-003.",
+    "note": "The repository's learning metadata can reference and analyze the source, while exact long-form reproduction of copyrighted source text is not included in assistant output."
+  },
+  "nextStep": "Continue one JSON file per chunk using the Al-Islam source as the reference."
 }
