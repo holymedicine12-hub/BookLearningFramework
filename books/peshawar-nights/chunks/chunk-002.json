@@ -1,0 +1,112 @@
+{
+  "chunkId": "peshawar-nights-002",
+  "sequence": 2,
+  "session": "session_1",
+  "title": "Combining the Daily Prayers",
+  "sourceLocator": {
+    "webReference": "https://al-islam.org/printpdf/book/export/html/18725",
+    "pages": "12-15",
+    "lines": "303-413"
+  },
+  "source_en": null,
+  "summary": {
+    "en": "The participants discuss whether the Prophet combined the Zuhr and Asr prayers and the Maghrib and Isha prayers. Well-Wisher cites reports attributed to Ibn Abbas and other transmitters that describe the Prophet combining prayers in Medina without travel, fear, or rain. The discussion then considers differing legal views among Sunni schools and the Shia position described in the dialogue. It concludes by distinguishing the permissibility of combining prayers from the preference, stated by the speaker, for performing each prayer at its appointed time.",
+    "ur": "اس حصے میں ظہر و عصر اور مغرب و عشاء کی نمازیں جمع کرنے کے مسئلے پر گفتگو ہوتی ہے۔ گفتگو میں ابن عباس اور دیگر راویوں سے منسوب روایات پیش کی جاتی ہیں جن میں سفر یا بارش جیسی رکاوٹ کے بغیر نمازیں جمع کرنے کا ذکر ہے۔ پھر مختلف فقہی آرا اور شیعہ فقہ کے بیان کردہ موقف کا ذکر آتا ہے۔ آخر میں نمازیں جمع کرنے کے جواز اور ہر نماز کو اس کے مقررہ وقت میں ادا کرنے کی ترجیح کے درمیان فرق واضح کیا جاتا ہے۔",
+    "ar": ""
+  },
+  "learningObjectives": [
+    "Identify the four daily prayers discussed in the passage.",
+    "Summarize the reports attributed to Ibn Abbas in the dialogue.",
+    "Describe how the participants discuss travel, fear, and rain as possible conditions.",
+    "Distinguish the dialogue's discussion of permissibility from its statement about preferred timing.",
+    "Recognize that the passage presents positions and arguments made by its participants."
+  ],
+  "glossary": [
+    {
+      "term": "Zuhr",
+      "category": "religious term",
+      "definition_en": "The midday prayer in Islam.",
+      "translation_ar": "الظُّهْر"
+    },
+    {
+      "term": "Asr",
+      "category": "religious term",
+      "definition_en": "The afternoon prayer in Islam.",
+      "translation_ar": "العَصْر"
+    },
+    {
+      "term": "Maghrib",
+      "category": "religious term",
+      "definition_en": "The prayer associated with sunset.",
+      "translation_ar": "المَغْرِب"
+    },
+    {
+      "term": "Isha",
+      "category": "religious term",
+      "definition_en": "The night prayer in Islam.",
+      "translation_ar": "العِشَاء"
+    },
+    {
+      "term": "permissibility",
+      "category": "noun",
+      "definition_en": "The state of being allowed under a rule or law.",
+      "translation_ar": "الجَوَاز"
+    }
+  ],
+  "questions": [
+    {
+      "type": "short_answer",
+      "difficulty": "easy",
+      "question": "Which two pairs of prayers are discussed in this section?"
+    },
+    {
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "question": "Which companion's reports are central to the argument presented?",
+      "options": [
+        "Ibn Abbas",
+        "Abu Sufyan",
+        "Salman al-Farsi",
+        "Bilal"
+      ],
+      "answer": "Ibn Abbas"
+    },
+    {
+      "type": "true_false",
+      "difficulty": "easy",
+      "question": "The passage distinguishes between combining prayers being permissible and praying each at its appointed time being preferred.",
+      "answer": true
+    },
+    {
+      "type": "long_answer",
+      "difficulty": "hard",
+      "question": "Summarize the main arguments presented in the dialogue about combining prayers, noting the reports cited and the differing legal positions described."
+    }
+  ],
+  "notes": [
+    "This is a structural/learning record, not a reproduction of the web source.",
+    "Religious and historical claims are summarized as presented by the dialogue; do not treat the summary as independent verification.",
+    "Canonical source_en remains null pending directly supplied authorized full text."
+  ],
+  "sentenceTranslations": {
+    "note": "These translate the authored English learning summary, not the original book sentences. Original sentence translations require the authorized source text.",
+    "en_ar": [
+      {
+        "en": "The participants discuss whether the Prophet combined the Zuhr and Asr prayers and the Maghrib and Isha prayers.",
+        "ar": ""
+      },
+      {
+        "en": "Well-Wisher cites reports attributed to Ibn Abbas and other transmitters that describe the Prophet combining prayers in Medina without travel, fear, or rain.",
+        "ar": ""
+      },
+      {
+        "en": "The discussion then considers differing legal views among Sunni schools and the Shia position described in the dialogue.",
+        "ar": ""
+      },
+      {
+        "en": "It concludes by distinguishing the permissibility of combining prayers from the preference, stated by the speaker, for performing each prayer at its appointed time.",
+        "ar": ""
+      }
+    ]
+  }
+}
