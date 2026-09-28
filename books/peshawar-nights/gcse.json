@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "2.0",
+  "bookId": "peshawar-nights",
+  "fileId": "gcse",
+  "status": "first_chunk_mapped",
+  "sourcePolicy": "source_en is reserved for directly supplied authorized full text and is not populated from the web reference.",
+  "chunks": [
+    {
+      "chunkId": "peshawar-nights-001",
+      "sequence": 1,
+      "session": "session_1",
+      "title": "Opening of the First Session: Rules of Discussion and Genealogy",
+      "sourceLocator": {
+        "webReference": "https://al-islam.org/printpdf/book/export/html/18725",
+        "pages": "8-12",
+        "lines": "182-300"
+      },
+      "source_en": null,
+      "summary": {
+        "en": "The opening discussion establishes the rules for a respectful exchange between the participants. The dialogue then turns to the Well-Wisher's claimed relationship to the Prophet through Imam Musa Kazim and to the question of whether descent through Fatima constitutes descent from the Prophet. The argument invokes Qur'anic passages concerning prophetic lineage and the event of Mubahala, together with reports attributed to Sunni scholars and collections. The session then moves to a question about combining the daily prayers, where the participants discuss reports attributed to Ibn Abbas concerning the Prophet combining prayers even without travel or an obvious external constraint.",
+        "ur": "ابتدائی گفتگو میں باہمی احترام اور دلیل کی بنیاد پر بحث کے اصول طے کیے جاتے ہیں۔ پھر گفتگو رسولِ اکرمؐ سے نسبی تعلق، حضرت فاطمہؑ کے ذریعے اولادِ رسول ہونے، قرآنی آیات، واقعۂ مباہلہ اور مختلف روایات کے حوالے سے آگے بڑھتی ہے۔ بعد میں نمازوں کو جمع کرنے کے مسئلے پر بحث شروع ہوتی ہے اور ابن عباس سے منسوب روایات کا ذکر آتا ہے۔"
+      },
+      "learningObjectives": [
+        "Identify the agreed principles for conducting the dialogue.",
+        "Explain the genealogy question introduced in the first session.",
+        "Identify the Qur'anic passages invoked in the lineage discussion.",
+        "Summarize the role of the Mubahala argument in the dialogue.",
+        "Identify the issue raised concerning combining daily prayers."
+      ],
+      "glossary": [
+        {
+          "term": "genealogy",
+          "category": "noun",
+          "definition_en": "A record or study of family descent and ancestry."
+        },
+        {
+          "term": "Mubahala",
+          "category": "religious term",
+          "definition_en": "A formal invocation of divine judgment in a dispute, referring here to the Qur'anic account involving the Prophet and the Christians of Najran."
+        },
+        {
+          "term": "hadith",
+          "category": "religious term",
+          "definition_en": "A report concerning statements, actions, or approvals attributed to the Prophet or other Islamic authorities."
+        },
+        {
+          "term": "lineage",
+          "category": "noun",
+          "definition_en": "A person's line of descent from ancestors."
+        }
+      ],
+      "questions": [
+        {
+          "type": "short_answer",
+          "difficulty": "easy",
+          "question": "What two broad principles for discussion are established at the beginning of the session?"
+        },
+        {
+          "type": "multiple_choice",
+          "difficulty": "medium",
+          "question": "Which topic follows the initial genealogy discussion?",
+          "options": [
+            "Combining daily prayers",
+            "Trade regulations",
+            "Military history",
+            "Arabic grammar"
+          ]
+        },
+        {
+          "type": "true_false",
+          "difficulty": "easy",
+          "question": "The opening participants agree that the discussion should be conducted respectfully and reasonably.",
+          "answer": true
+        },
+        {
+          "type": "long_answer",
+          "difficulty": "hard",
+          "question": "Explain how the dialogue develops from a question about genealogy into a broader discussion involving Qur'anic evidence and hadith."
+        }
+      ],
+      "notes": [
+        "This is a structural/learning record, not a reproduction of the web source.",
+        "Claims in the dialogue should be taught as claims made by the participants unless independently verified."
+      ]
+    }
+  ]
+}
