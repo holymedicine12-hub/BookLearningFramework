@@ -1,0 +1,297 @@
+{
+  "schemaVersion": "2.0",
+  "book": {
+    "id": "peshawar-nights",
+    "title": {
+      "en": "Peshawar Nights — Shiah Islam in Sunni Traditions",
+      "ur": "شب ہائے پشاور — سنی روایات میں شیعہ اسلام",
+      "fa": "شب‌های پیشاور — اسلام شیعه در روایات اهل سنت",
+      "ar": "لَيَالِي بَشَاوَر — الْإِسْلَامُ الشِّيعِيُّ فِي الرِّوَايَاتِ السُّنِّيَّةِ"
+    },
+    "author": {
+      "en": "Sultanu'l-Wa'izin Shirazi",
+      "ur": "سلطان الواعظین شیرازی",
+      "fa": "سلطان‌الواعظین شیرازی",
+      "ar": "سُلْطَانُ الْوَاعِظِينَ الشِّيرَازِيُّ"
+    }
+  },
+  "questionTypes": [
+    {
+      "numericId": 1,
+      "key": "q_short",
+      "labels": {
+        "en": "Short answer",
+        "ur": "مختصر جواب",
+        "fa": "پاسخ کوتاه",
+        "ar": "إِجَابَةٌ قَصِيرَةٌ"
+      }
+    },
+    {
+      "numericId": 2,
+      "key": "q_mcq",
+      "labels": {
+        "en": "Multiple choice",
+        "ur": "کثیر الانتخاب",
+        "fa": "چندگزینه‌ای",
+        "ar": "اِخْتِيَارٌ مِنْ مُتَعَدِّدٍ"
+      }
+    },
+    {
+      "numericId": 3,
+      "key": "q_true_false",
+      "labels": {
+        "en": "True or false",
+        "ur": "درست یا غلط",
+        "fa": "درست یا نادرست",
+        "ar": "صَحِيحٌ أَمْ خَطَأٌ"
+      }
+    },
+    {
+      "numericId": 4,
+      "key": "q_fill_blank",
+      "labels": {
+        "en": "Fill in the blank",
+        "ur": "خالی جگہ پُر کریں",
+        "fa": "جای خالی را پر کنید",
+        "ar": "مَلْءُ الْفَرَاغِ"
+      }
+    },
+    {
+      "numericId": 5,
+      "key": "q_long",
+      "labels": {
+        "en": "Long answer",
+        "ur": "تفصیلی جواب",
+        "fa": "پاسخ تشریحی",
+        "ar": "إِجَابَةٌ مُفَصَّلَةٌ"
+      }
+    }
+  ],
+  "thematicTopics": [],
+  "difficultyLevels": [
+    {
+      "numericId": 1,
+      "key": "diff_easy",
+      "labels": {
+        "en": "Easy",
+        "ur": "آسان",
+        "fa": "آسان",
+        "ar": "سَهْلٌ"
+      }
+    },
+    {
+      "numericId": 2,
+      "key": "diff_medium",
+      "labels": {
+        "en": "Medium",
+        "ur": "درمیانہ",
+        "fa": "مُتَوَسِّطٌ",
+        "ar": "مُتَوَسِّطٌ"
+      }
+    },
+    {
+      "numericId": 3,
+      "key": "diff_hard",
+      "labels": {
+        "en": "Hard",
+        "ur": "مشکل",
+        "fa": "دشوار",
+        "ar": "صَعْبٌ"
+      }
+    }
+  ],
+  "glossaryCategories": [
+    {
+      "numericId": 1,
+      "key": "gloss_noun",
+      "labels": {
+        "en": "Noun",
+        "ur": "اسم",
+        "fa": "اسم",
+        "ar": "اِسْمٌ"
+      }
+    },
+    {
+      "numericId": 2,
+      "key": "gloss_verb",
+      "labels": {
+        "en": "Verb",
+        "ur": "فعل",
+        "fa": "فعل",
+        "ar": "فِعْلٌ"
+      }
+    },
+    {
+      "numericId": 3,
+      "key": "gloss_proper_noun",
+      "labels": {
+        "en": "Proper noun",
+        "ur": "اسمِ خاص",
+        "fa": "اسم خاص",
+        "ar": "اِسْمٌ عَلَمٌ"
+      }
+    },
+    {
+      "numericId": 4,
+      "key": "gloss_quranic_term",
+      "labels": {
+        "en": "Qur'anic term",
+        "ur": "قرآنی اصطلاح",
+        "fa": "اصطلاح قرآنی",
+        "ar": "مُصْطَلَحٌ قُرْآنِيٌّ"
+      }
+    },
+    {
+      "numericId": 5,
+      "key": "gloss_religious_term",
+      "labels": {
+        "en": "Religious term",
+        "ur": "دینی اصطلاح",
+        "fa": "اصطلاح دینی",
+        "ar": "مُصْطَلَحٌ دِينِيٌّ"
+      }
+    },
+    {
+      "numericId": 6,
+      "key": "gloss_adjective",
+      "labels": {
+        "en": "Adjective",
+        "ur": "صفت",
+        "fa": "صفت",
+        "ar": "صِفَةٌ"
+      }
+    },
+    {
+      "numericId": 7,
+      "key": "gloss_phrase",
+      "labels": {
+        "en": "Phrase",
+        "ur": "عبارت",
+        "fa": "عبارت",
+        "ar": "عِبَارَةٌ"
+      }
+    }
+  ],
+  "sessions": [
+    {
+      "numericId": 0,
+      "key": "session_preface",
+      "labels": {
+        "en": "Front matter / preface",
+        "ur": "تمہید و ابتدائی مواد",
+        "fa": "پیشگفتار و مطالب مقدماتی",
+        "ar": "الْمُقَدِّمَةُ وَالْمَوَادُّ الِافْتِتَاحِيَّةُ"
+      }
+    },
+    {
+      "numericId": 1,
+      "key": "session_1",
+      "labels": {
+        "en": "Session 1",
+        "ur": "نشست 1",
+        "fa": "جلسه 1",
+        "ar": "الْجَلْسَةُ 1"
+      }
+    },
+    {
+      "numericId": 2,
+      "key": "session_2",
+      "labels": {
+        "en": "Session 2",
+        "ur": "نشست 2",
+        "fa": "جلسه 2",
+        "ar": "الْجَلْسَةُ 2"
+      }
+    },
+    {
+      "numericId": 3,
+      "key": "session_3",
+      "labels": {
+        "en": "Session 3",
+        "ur": "نشست 3",
+        "fa": "جلسه 3",
+        "ar": "الْجَلْسَةُ 3"
+      }
+    },
+    {
+      "numericId": 4,
+      "key": "session_4",
+      "labels": {
+        "en": "Session 4",
+        "ur": "نشست 4",
+        "fa": "جلسه 4",
+        "ar": "الْجَلْسَةُ 4"
+      }
+    },
+    {
+      "numericId": 5,
+      "key": "session_5",
+      "labels": {
+        "en": "Session 5",
+        "ur": "نشست 5",
+        "fa": "جلسه 5",
+        "ar": "الْجَلْسَةُ 5"
+      }
+    },
+    {
+      "numericId": 6,
+      "key": "session_6",
+      "labels": {
+        "en": "Session 6",
+        "ur": "نشست 6",
+        "fa": "جلسه 6",
+        "ar": "الْجَلْسَةُ 6"
+      }
+    },
+    {
+      "numericId": 7,
+      "key": "session_7",
+      "labels": {
+        "en": "Session 7",
+        "ur": "نشست 7",
+        "fa": "جلسه 7",
+        "ar": "الْجَلْسَةُ 7"
+      }
+    },
+    {
+      "numericId": 8,
+      "key": "session_8",
+      "labels": {
+        "en": "Session 8",
+        "ur": "نشست 8",
+        "fa": "جلسه 8",
+        "ar": "الْجَلْسَةُ 8"
+      }
+    },
+    {
+      "numericId": 9,
+      "key": "session_9",
+      "labels": {
+        "en": "Session 9",
+        "ur": "نشست 9",
+        "fa": "جلسه 9",
+        "ar": "الْجَلْسَةُ 9"
+      }
+    },
+    {
+      "numericId": 10,
+      "key": "session_10",
+      "labels": {
+        "en": "Session 10",
+        "ur": "نشست 10",
+        "fa": "جلسه 10",
+        "ar": "الْجَلْسَةُ 10"
+      }
+    },
+    {
+      "numericId": 11,
+      "key": "session_last",
+      "labels": {
+        "en": "Last Session",
+        "ur": "آخری نشست",
+        "fa": "جلسه پایانی",
+        "ar": "الْجَلْسَةُ الْأَخِيرَةُ"
+      }
+    }
+  ]
+}
