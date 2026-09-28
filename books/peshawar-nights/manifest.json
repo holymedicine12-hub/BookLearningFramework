@@ -67,7 +67,108 @@
       }
     }
   ],
-  "thematicTopics": [],
+  "thematicTopics": [
+    {
+      "numericId": 1,
+      "key": "source-and-preface",
+      "labels": {
+        "en": "Source, Preface, and Historical Setting",
+        "ur": "Source, Preface, and Historical Setting",
+        "fa": "Source, Preface, and Historical Setting",
+        "ar": "Source, Preface, and Historical Setting"
+      }
+    },
+    {
+      "numericId": 2,
+      "key": "prophetic-succession",
+      "labels": {
+        "en": "The Prophet and the Question of Succession",
+        "ur": "The Prophet and the Question of Succession",
+        "fa": "The Prophet and the Question of Succession",
+        "ar": "The Prophet and the Question of Succession"
+      }
+    },
+    {
+      "numericId": 3,
+      "key": "imamate-and-wilayah",
+      "labels": {
+        "en": "Imamate and Wilayah",
+        "ur": "Imamate and Wilayah",
+        "fa": "Imamate and Wilayah",
+        "ar": "Imamate and Wilayah"
+      }
+    },
+    {
+      "numericId": 4,
+      "key": "quran-and-interpretation",
+      "labels": {
+        "en": "Qur'an and Interpretation",
+        "ur": "Qur'an and Interpretation",
+        "fa": "Qur'an and Interpretation",
+        "ar": "Qur'an and Interpretation"
+      }
+    },
+    {
+      "numericId": 5,
+      "key": "hadith-and-evidence",
+      "labels": {
+        "en": "Hadith, Reports, and Source Evidence",
+        "ur": "Hadith, Reports, and Source Evidence",
+        "fa": "Hadith, Reports, and Source Evidence",
+        "ar": "Hadith, Reports, and Source Evidence"
+      }
+    },
+    {
+      "numericId": 6,
+      "key": "companions-and-caliphate",
+      "labels": {
+        "en": "Companions and Caliphate",
+        "ur": "Companions and Caliphate",
+        "fa": "Companions and Caliphate",
+        "ar": "Companions and Caliphate"
+      }
+    },
+    {
+      "numericId": 7,
+      "key": "ahlul-bayt",
+      "labels": {
+        "en": "Ahlul Bayt and Their Authority",
+        "ur": "Ahlul Bayt and Their Authority",
+        "fa": "Ahlul Bayt and Their Authority",
+        "ar": "Ahlul Bayt and Their Authority"
+      }
+    },
+    {
+      "numericId": 8,
+      "key": "jurisprudence",
+      "labels": {
+        "en": "Islamic Law and Jurisprudence",
+        "ur": "Islamic Law and Jurisprudence",
+        "fa": "Islamic Law and Jurisprudence",
+        "ar": "Islamic Law and Jurisprudence"
+      }
+    },
+    {
+      "numericId": 9,
+      "key": "dialogue-and-method",
+      "labels": {
+        "en": "Dialogue, Reasoning, and Comparative Method",
+        "ur": "Dialogue, Reasoning, and Comparative Method",
+        "fa": "Dialogue, Reasoning, and Comparative Method",
+        "ar": "Dialogue, Reasoning, and Comparative Method"
+      }
+    },
+    {
+      "numericId": 10,
+      "key": "closing-and-reflection",
+      "labels": {
+        "en": "Conclusions, Reflection, and Guidance",
+        "ur": "Conclusions, Reflection, and Guidance",
+        "fa": "Conclusions, Reflection, and Guidance",
+        "ar": "Conclusions, Reflection, and Guidance"
+      }
+    }
+  ],
   "difficultyLevels": [
     {
       "numericId": 1,
@@ -293,5 +394,11 @@
         "ar": "الْجَلْسَةُ الْأَخِيرَةُ"
       }
     }
-  ]
+  ],
+  "chunks": {
+    "plannedChunkSize": "10–20 source sentences",
+    "plannedTotal": 663,
+    "filePattern": "chunks/chunk-001.json, ...",
+    "rule": "one thematic chunk per JSON file; source English preserved verbatim; multilingual learning fields populated in the translation phase"
+  }
 }

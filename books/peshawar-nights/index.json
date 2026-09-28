@@ -99,10 +99,10 @@
     ]
   },
   "chunks": {
-    "plannedChunkSize": "~900-1400 source words",
-    "plannedTotal": "full-book; generated sequentially",
-    "filePattern": "chunks/chunk-001.json, chunks/chunk-002.json, chunks/chunk-003.json, ...",
-    "rule": "one chunk per JSON file"
+    "count": 663,
+    "rule": "10–20 source sentences per chunk",
+    "themeRule": "each chunk has one dominant thematicTopicId",
+    "filePattern": "chunks/chunk-001.json, chunks/chunk-002.json, ..."
   },
   "preservation": {
     "sourceEnglishPolicy": "Al-Islam online English is the designated source reference for this project.",
@@ -110,5 +110,5 @@
     "currentState": "Source structure indexed; individual chunk files created for chunks 001-003.",
     "note": "The repository's learning metadata can reference and analyze the source, while exact long-form reproduction of copyrighted source text is not included in assistant output."
   },
-  "nextStep": "Continue one JSON file per chunk using the Al-Islam source as the reference."
+  "nextStep": "Populate Urdu, Persian, Arabic, glossary, and questions for the rebuilt thematic chunks."
 }
