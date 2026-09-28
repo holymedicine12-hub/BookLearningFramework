@@ -1,27 +1,24 @@
 # Peshawar Nights
 
-**Book:** Peshawar Nights — Shiah Islam in Sunni Traditions  
-**Author:** Sultanu'l-Wa'izin Shirazi
+Book ID: `peshawar-nights`
 
-## Dataset
+## Source
 
-This folder will contain the complete GCSE-style multilingual chunking dataset.
+Primary reference:
 
-Languages:
+https://al-islam.org/peshawar-nights-sayyid-muhammad-al-musawi-al-shirazi
 
-- English
-- Urdu
-- Farsi
-- Arabic
+Al-Islam.org identifies this as an English translation of *Peshawar Nights*. Its page also explicitly notes that the online text was edited during digitization and is **not an exact reproduction of the original published English translation**.
 
-## Source preservation
+## Dataset policy
 
-The English source layer is immutable. In every completed chunk, `sentences[].en` must preserve the source edition wording verbatim. It must not be paraphrased, modernized, simplified, corrected, or “GCSE-ized”.
+The BookLearningFramework source-preservation rule is:
 
-Questions, explanations, translations, glossary entries, and titles are newly authored learning material.
+- When an authorized source text is supplied for ingestion, its English source layer must remain verbatim.
+- Translations, explanations, questions, glossaries, and learning metadata are separate derived layers.
+- The public web edition is currently indexed as a reference source; its full text is not copied into this repository.
+- The complete learning dataset should be generated only from a source that the project is authorized to reproduce.
 
-## Repository status
+## Current status
 
-The folder is being built incrementally in book order.
-
-The public repository must not receive a complete verbatim reproduction of a copyrighted source edition unless redistribution rights for that edition have been established.
+The book structure and source metadata are initialized. Learning chunks remain to be populated from an authorized full-text source.
