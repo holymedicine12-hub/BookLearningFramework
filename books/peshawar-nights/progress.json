@@ -1,1 +1,22 @@
-{"schemaVersion":"3.0","bookId":"peshawar-nights","updated":"2026-09-28","status":"full_source_chunked","progressPercent":100,"chunkCount":158,"sourceWords":201000,"completed":["Full GitHub source ingested","Entire source split into coherent sentence-boundary chunks","One JSON file per chunk","Prompt updated with required schema and example"],"translationStatus":"Source chunk files are created; sentence translations and learning layers are pending generation and verification.","nextSteps":["Generate and verify Urdu/Persian/Arabic sentence translations","Generate vocabulary and learning layers","Run full source coverage validation"]}
+{
+  "schemaVersion": "3.1",
+  "bookId": "peshawar-nights",
+  "updated": "2026-09-28",
+  "status": "source_chunking_complete_translations_pending",
+  "chunkCount": 125,
+  "sourceWords": 201000,
+  "sourceCharacters": 1165628,
+  "completed": [
+    "Full GitHub source ingested",
+    "Entire source divided into exact contiguous source_text_en ranges at sentence boundaries",
+    "One JSON file per chunk",
+    "Prompt updated with required output schema and example"
+  ],
+  "translationProgress": 0,
+  "learningProgress": 0,
+  "nextSteps": [
+    "Generate Urdu, Persian, and Arabic translation for every source sentence",
+    "Generate vocabulary, summaries, objectives, and questions",
+    "Validate exact source coverage and translation completeness"
+  ]
+}
